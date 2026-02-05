@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🥰My name is Melike.
-I'm currently a sophomore at Bilkent University and studying computer science.👩‍💻
+I'm currently studying computer science.👩‍💻
 <!--
 **melik3kara/melik3kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
